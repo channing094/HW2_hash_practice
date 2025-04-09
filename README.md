@@ -1,1 +1,1 @@
-沒錯，有些事情搞錯了才會在master裡
+沒錯，有些事情搞錯了才會在master裡。總而言之我打開git時開到了master的，因此在用之前的程式碼時，我發現自己沒辦法push到main branch裡面。因此我改成push到master裡面，但又發現原本的README在main，所以嘗試了各種方法想把檔案丟到main裡。最後是沒辦法，我就算pull了也丟不上去，因此乾脆直接在master裡面開一個README。不知道這樣有沒有造成老師的困擾，有的話實在是非常抱歉OTZ
