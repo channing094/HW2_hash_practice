@@ -1,1 +1,2 @@
 # HW2_hash_practice
+請切換分支到master尋找其他檔案
